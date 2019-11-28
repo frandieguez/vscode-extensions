@@ -1,0 +1,34 @@
+{
+  "publisher": "frandieguez",
+  "repository": "https://github.com/frandieguez/vscode-extensions",
+  "icon": "icon.png",
+  "name": "misc-extension-pack",
+  "displayName": "Misc Extension Pack",
+  "description": "The description goes here",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "yzhang.markdown-all-in-one",
+    "hbenl.vscode-test-explorer",
+    "arcticicestudio.nord-visual-studio-code",
+    "Arjun.swagger-viewer",
+    "atlassian.atlascode",
+    "connorshea.vscode-ruby-test-adapter",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "fallenwood.vimL",
+    "mikestead.dotenv",
+    "PKief.material-icon-theme",
+    "quicktype.quicktype",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "secanis.jenkinsfile-support",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}

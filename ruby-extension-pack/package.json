@@ -1,0 +1,37 @@
+{
+  "publisher": "frandieguez",
+  "name": "ruby-extension-pack",
+  "repository": "https://github.com/frandieguez/vscode-extensions",
+  "icon": "icon.png",
+  "displayName": "Ruby Extension Pack",
+  "description": "The description goes here",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "EditorConfig.EditorConfig",
+    "Hridoy.rails-snippets",
+    "Vense.rails-snippets",
+    "aki77.rails-routes",
+    "alexkrechik.cucumberautocomplete",
+    "bung87.rails",
+    "bung87.vscode-gemfile",
+    "castwide.solargraph",
+    "connorshea.vscode-ruby-test-adapter",
+    "hbenl.vscode-test-explorer",
+    "hjleochen.rails-nav",
+    "mbessey.vscode-rufo",
+    "mikestead.dotenv",
+    "misogi.ruby-rubocop",
+    "noku.rails-run-spec-vscode",
+    "rebornix.ruby",
+    "shanehofstetter.rails-i18n",
+    "sianglim.slim",
+    "wingrunr21.vscode-ruby",
+    "yzhang.markdown-all-in-one"
+  ]
+}

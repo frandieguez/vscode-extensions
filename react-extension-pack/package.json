@@ -1,0 +1,46 @@
+{
+  "publisher": "frandieguez",
+  "repository": "https://github.com/frandieguez/vscode-extensions",
+  "icon": "icon.png",
+  "name": "react-extension-pack",
+  "displayName": "React Extension Pack",
+  "description": "The description goes here",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "jawandarajbir.react-vscode-extension-pack",
+    "walkme.ruby-extension-pack",
+    "swellaby.node-pack",
+    "EditorConfig.EditorConfig",
+    "HookyQR.beautify",
+    "Zignd.html-css-class-completion",
+    "andrew-codes.cypress-snippets",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "cmstead.jsrefactor",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "dzhavat.css-initial-value",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "maty.vscode-mocha-sidebar",
+    "mgmcdermott.vscode-language-babel",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "prashaantt.node-tdd",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "robinbentley.sass-indented",
+    "sburg.vscode-javascript-booster",
+    "shinnn.stylelint",
+    "steoates.autoimport",
+    "stevencl.addDocComments",
+    "wix.vscode-import-cost"
+  ]
+}
