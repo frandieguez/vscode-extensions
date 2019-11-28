@@ -32,6 +32,14 @@
     "shanehofstetter.rails-i18n",
     "sianglim.slim",
     "wingrunr21.vscode-ruby",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "shanehofstetter.rails-open-partial",
+    "jemmyw.rails-fast-nav",
+    "tmikoss.rails-latest-migration",
+    "asux.rspec-focus",
+    "vortizhe.simple-ruby-erb",
+    "vayan.haml",
+    "aki77.haml-lint",
+    "kaiwood.endwise"
   ]
 }

@@ -29,6 +29,14 @@
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "secanis.jenkinsfile-support",
-    "visualstudioexptteam.vscodeintellicode"
+    "visualstudioexptteam.vscodeintellicode",
+    "file-icons.file-icons",
+    "vscodevim.vim",
+    "streetsidesoftware.code-spell-checker",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "BriteSnow.vscode-toggle-quotes",
+    "ritwickdey.liveserver",
+    "humao.rest-client"
   ]
 }
