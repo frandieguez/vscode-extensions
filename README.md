@@ -46,7 +46,7 @@ dotfiles is copyright © 2016-2019 Fran Dieguez. It is free software, and may be
 ℹ️ About the author
 ----------------
 
-![frandieguez](http://www.mabishu.com/wp-content/uploads/2013/04/gafas.png
+![frandieguez](http://www.mabishu.com/wp-content/uploads/2013/04/gafas.png)
 Please check my website https://www.frandieguez.com or my twitter http://www.twitter.com/frandieguez
 
 This repository is maintained by Fran Dieguez.
