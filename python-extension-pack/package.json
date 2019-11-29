@@ -1,0 +1,21 @@
+{
+  "publisher": "frandieguez",
+  "name": "python-extension-pack",
+  "repository": "https://github.com/frandieguez/vscode-extensions",
+  "icon": "icon.png",
+  "displayName": "Python Extension Pack",
+  "description": "The description goes here",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "EditorConfig.EditorConfig",
+    "mikestead.dotenv",
+    "littlefoxteam.vscode-python-test-adapter"
+  ]
+}
