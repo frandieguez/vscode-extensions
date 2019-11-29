@@ -27,6 +27,7 @@ What's in it?
 
 - **Ruby Extension pack**: Installs a curated list of extensions related with Ruby development.
 - **Ruby Extension pack**: Installs a curated list of extensions related with React development.
+- **Python Extension pack**: Installs a curated list of extensions related with Python development.
 - **Misc Extension pack**: Installs multiple extensions and configurations that are more related with the ergonomics of how I use VS Code.
 
 
